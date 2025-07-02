@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(to bottom, #0d0d0d, #1a1a2e);
+  color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 2em;
+}
+
+.hero-img {
+  width: 240px;
+  border-radius: 15px;
+  margin-bottom: 1em;
+  box-shadow: 0 0 15px #8ce8ff;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #8ce8ff;
+}
+
+p {
+  font-style: italic;
+  color: #d3d3d3;
+}
+
+.btn {
+  background: #8ce8ff;
+  color: #0d0d0d;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: 0 0 8px #8ce8ff;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: #0d0d0d;
+  color: #8ce8ff;
+  box-shadow: 0 0 12px #8ce8ff;
+}

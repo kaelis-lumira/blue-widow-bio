@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blue Widow — Numenra</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="blue-widow.png" alt="Blue Widow" class="hero-img" />
+    <h1>Blue Widow</h1>
+    <p>Cennet bahçesinden gelen sessiz kart... Numenra içinde yankılanıyor.</p>
+    <a href="https://kaelis-lumira.github.io/numenra-bio-link/" class="btn">Numenra Ana Bağlantı</a>
+  </div>
+</body>
+</html>
